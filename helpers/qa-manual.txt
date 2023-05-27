@@ -1,0 +1,335 @@
+How to change the company name 
+To change company name you go to your entity, by going to Legal Entities under Corporate Information: Legal Entities in the sidebar, then click on the pencil icon beside the entity. Here, under the tab Name, you can change company name. 
+Click on the “Add New Name” button.
+Report the new name and set a start date.
+Click on the “Save” button.
+The new name is now reported!
+
+----
+
+How to report a new Entity ID
+To report a new Entity ID, you go to your entity under Legal Entities under Corporate Information: Legal Entities in the sidebar, then click on the pencil icon beside the entity. Here, under the tab Name, you can report the new Entity ID. 
+Click on the “Add New Name” button.
+Report the new Entity ID and set a start date.
+Click on the “Save” button.
+The new Entity ID is now reported!
+
+----
+
+How to update the incorrect Entity ID
+To change Entity ID, you go to your entity under Legal Entities under Corporate Information: Legal Entities in the sidebar, then click on the pencil icon beside the entity. Here, under the tab Name, you can change Entity ID. 
+Click on the three dots next to the item you like to change.
+Click on the “Correct mistake or add complementary information” option.
+Change the Entity ID.
+Click on the “Save” button.
+The correct Entity ID is now reported!
+
+----
+
+How to report a liquidation 
+To report entity as liquidated, go to Legal Entities under Corporate Information: Legal Entities in the sidebar, then click on the pencil icon beside the entity. A new page with General Info will open. Just click on the ‘Edit’ button in the bottom right corner to edit. 
+To mark an entity as disposed, check the Disposed checkbox in the Formation, Acquisition & Disposal Info box and click ‘Save’. 
+Warning! When marking an entity as disposed you must ensure to zero out the owners’ transaction(s) in the Shareholdings section as well, or the system will warn that the entity is disposed but still has ownership.
+
+----
+
+How to report a merger
+To report a merger, you need to do it in three steps. 
+You need to mark entity as Disposed under Legal Entities in Entity Management:
+Then you need to change Entity Status
+To change Entity status, you go to Entity Status under Legal Entities and change status to Merged:
+The third step is to Zero Out transaction. To do that you need to find the shareholder (Parent) in the Shareholdings list, under Entity Management, and click on the pencil icon, then click on the Shareholdings tab and then again on the pencil icon next to the shareholding’s name (the entity that will be merged). A new page with the previous transactions between the two parties will open. 
+Click on the ’Add’ button to make a new transaction. Enter the Transaction Date and Transaction Type (Merger) then use the Zero Out Transaction function to autofill the transaction fields to show that the shareholder is selling or disposing of all of its shares. 
+
+----
+
+How to report a TIN number
+To report TIN number, you go to your Entity and under Tax Residence you can update information by clicking on three dots and add TIN number information you have. 
+
+
+----
+
+How to download data in Blika 
+You can export data about all your companies and from all menu items to an excel file, if you have been granted access by an administrator. Sort out the data you want to export in the table then click on the export to excel icon, see below.
+You can also view and download uploaded files and documents for your entities. Just click on the download icon, see examples below.
+
+----
+
+How to view previous names of an entity
+You can view the Entity name History, under Entity Management: Corporation Information, by searching for the entity in the search bar and then clicking on the pencil/eye icon next to it. 
+
+----
+
+How to view which companies we have in specific countries
+To see if you own any companies in specific countries, go to Legal Entities under Entity Management: Corporation Information. Here, you can choose to sort the list by country to view the existing countries related to your companies. 
+
+----
+
+How to report a new board member?
+You go to Entity Management- Directors officers and More- Entities. Click on the entity in the list and a new form will open.
+First search for the person you are looking for in the search bar.
+If the person already exists in the database, you can directly choose the persons name in the list and then report in which capacity the person is linked to the entity (Board member, director etc.) in the position field, then add the appointment date and save.
+If the person is not available in the search bar, then report the new person in the database or contact your administrator. Once the person is added, follow with report in which capacity the person is linked to the entity (Board member, director etc.) in the position field, then add the appointment date and save.
+
+----
+
+How to report a resignation?
+You go to Entity Management- Directors officers and More- Entities. Click on the entity in the list and a new form will open. Then you press on a select a date in the resignation column and a new window will open:
+ Set the resignation date and save.
+
+----
+
+How to delete a director?
+You can delete a director by first adding a false resignation date and then deleting it by going to three dots and click on “delete”.
+​Fill in date and save.
+Go to the three dots and “delete”.
+----
+​
+How to access a certain persons present and past directorships
+To view a full list of all previous directorships of a certain person, go to Linked Persons under Entity Management: Directors, Officers & More in the sidebar. Then use the search bar to find the person and click on the pencil next to the name. A new window listing al previous and current directorships will be shown. 
+Shareholdings
+
+----
+
+How to report internal sales and acquisition
+To add a new shareholding to an existing shareholder, i.e. an entity which already owns shares in another entity’s stock, click on the pencil icon next to the shareholder and then click on ‘Add New Shareholding.
+New page will open. Here you can add the transaction between the shareholder (which owns shares) and the shareholding (which is owned or partly owned by the shareholder). Fill in the white fields, some of which will already be automatically filled in depending on what information has already been reported in the Corporate Information section. Notice that the application will calculate the Ownership and warning flags will be raised if it is above or under 100%, including possible internal and/or external joint owners.
+
+----
+
+How to calculate the tree view
+The Tree report shows a view of ownership structure. It is calculated based on the legal structure with the group parent in the top and the subsidiaries sorted below each parent entity. 
+The ownership column shows the direct ownership of the entity (with how many percentage it is owned by the parent entity), the total ownership shows the ownership including all internal shareholders. The ownership weighted shows the weighted ownership by the parent entity while the total ownership weighted shows how much the top parent or the group owns in the entity.
+The drop-down in the top left enables you to choose any entity in the group as top parent. This gives you all the summarized and weighted ownerships and votes from the perspective of any selected entity, as an alternative to viewing it from the regular group parent. Use ‘Reload’ to update your settings.
+You may change the date in the date field and then click on the ‘Reload’ button to view the legal ownership tree on the date you have chosen. The default view is set to the last day of the current active period. Use ‘Reload’ to update your settings.
+To sort out companies in the Tree view, click on the ‘Show filter’ button to open the search fields.
+By using the search fields to filter the selection of your choice, you will then be able to view only those entities you have selected in the tree by clicking on the button ‘Show Selected Only’. You can also use the ‘Skip’ up-or-down-buttons to mark the selected entities in the tree. The selected entities will have a checkmark in the box visible in column C. 
+To return to viewing all entities click on the same button which now has changed its name to ‘Show All’. To reset your filters and show the entire tree, click on the ‘Reset’ button.
+Tips! You can right click on entities in the Tree report to bring up a menu of shortcuts and functions for that entity and its related data. 
+
+----
+
+How to change shareholding from one company to another?
+You report an internal sale for the former owner, where the owner sell the entity. Then you report an internal acquisition for the new owner, where the new owner picks up the subsidiary. 
+Report an internal sale or similar:
+To do this, go to the former owner in Shareholdings and report a new transaction.
+​
+In the new transaction, set the data (step 1-3) and then save. You can also use the "Create manual counterparty" if you have access to both the new and the old parent entities.
+Once you saved the data, your subsidiary is without parent and there will be a new warning flag. 
+Report an internal acquisition or similar:
+Go to the new parent and then report a new shareholding, see example below:
+Fill in step 1-4, the rest is optional and then save. Now you have reported a new shareholder!
+
+----
+
+What is the quickest way to see how much (%) we own in a particular entity?
+To view how much ownership a person has in a specific entity, one has two options.
+The first option is to go into the Ownership Report section under Entity Management: Shareholdings. Here, you can choose to view the list by: All entities, a specific Date, Class of Shares or Track Ownership. All alternatives can be selected from the sections under Ownership Reports, and then the company can be selected through the search bar. 
+The second option is to through the main search box, by typing the name of the company. The general information will then be visible, and you will be able to reach the Reports and under it the Corporate Information Report. The report will contain information about the shareholder and % holding. 
+Sign-off Overview
+
+----
+
+How do you keep Blika up to date? 
+Each company has an Editor who needs to sign off on the company data on a regular basis for all subsidiaries, in most cases there will be a monthly or quarterly sign-off. Before the entities are signed by each Editor, the Editors needs to make sure all updates or changes regarding the companies are reflected in Blika.
+Entity Management: Admin functions
+
+----
+
+Change currency code in Blika
+Go to the Definition section for Countries under Corporate Information in the Admin section. There you can add and edit currency codes.
+
+----
+
+Cannot set start date or date of change
+First check the active period, dates in certain sections are locked to the active period and you cannot set a date earlier that the last day of the active period. Meaning if the period end 31 of January, you cannot always set 1 of February as a date of change or start date. Historical changes can in most cases be reported.
+
+----
+
+Base Cost 
+Base cost - only in South Africa
+Passes through when you buy, liquidate or change assets in any way
+Linked to transactions, but need not include the same amounts - the actual amount you pay
+To avoid profit tax
+When this was installed at Naspers, the Opening Balance was imported via Excell - the sum for the daughter will be forwarded if there are internal changes, etc.
+
+----
+
+How to report Base Cost
+Report transactions in Shareholdings
+Report the concerned transactions as related under Batch Transactions
+Each batch get their own "batch ID"
+Go to Base Cost - Transactions
+Report type and role for the entity (i.e. selling party)
+Report stage
+
+----
+
+Report a new entity
+Report transactions in Shareholdings
+Report the concerned transactions as related under Batch Transactions
+Each batch get their own "batch ID"
+Go to Base Cost - Transactions (only accessible in the next period?!)
+Report type (N/A, just to get the opening balance for the new entity) and role for the entity (i.e. selling party)
+Report stage
+
+----
+
+Cannot find entity in Base Cost module
+Is there a opening balance linked to the entity?
+Can you find the parent entity? We can add it manually if the parent exist in Base Cost
+If the parent is not in Base Cost then we might have to import the opening balance first - we have a import template to fill in
+
+----
+
+Unbatching transactions 
+You first need to remove the roll-over relief operation in the Transactions view, then the batch can be removed. The transactions will become available to batch again.
+As a note, removing roll-over relief operations in the Transactions list should be done with caution. The user should consider what possible affects it might have if such base cost amounts are removed, that might have been used in subsequent roll-over relief operations.
+
+----
+
+Add contact information for the XML file
+You can provide this information in the text box called “Contact” when you create the XML schema, Admin area/BEPS 13/XML Export/Tax Jurisdictions Export to XML.
+
+----
+
+The calculation of CbC figures for permanent establishments
+According to OECD’s transfer pricing documentation, the permanent establishment data should be reported by reference to the tax jurisdiction in which it is situated. However, as the accumulated earnings and stated capital shall be reported by the legal entity of which it is a permanent establishment, the accumulated earnings and the stated capital of the permanent establishment will be added to the legal entity’s tax jurisdiction in the XML schema. 
+
+----
+
+Empty cells in the CbC Excel import file
+Empty cells in the CbC excel import file will be read as zero.
+
+----
+
+Correction of already filed XML file
+In the following text we will discuss how to correct the XML file which was previously submitted to the tax authorities but did not follow the correct format.
+After you have corrected the data in the platform you should do the following:
+Navigate to the Tax Jurisdiction section which is found under BEPS 13 & TP: XML Export in the Admin section of the platform.
+Ensure that you have the correct period selected in the drop-down box found above the Tax Jurisdictions table, e.g. if you are correcting the 2021 period ensure this is selected.
+Click the ‘Export to XML’ button above the table.
+In the Export tab that opens you’ll see an ‘Is Correction’ box which you should check mark, then in the ‘File to Correct’ drop-down you must select the XML export that you previously made in 2021.
+Then click ‘Download XML File’ at the bottom of the form.
+After this you can continue as normal. Instructions for this can be found in the Blika Platform BEPS Admin Manual.
+
+----
+
+How to delete a contract
+To delete a contract, you must fulfill the following requirement first: 
+It needs to be archived
+It cannot be linked to a local file
+It cannot have a connection to another contract, neither in this contract nor the facing contract.
+
+----
+
+How to add a contact person for a company?
+To add a contact person to a company you go to Entity Management- Entity Contact Persons - Entities.
+Click on the edit pencil next to the company to add a new contact person.
+The Add Entity Contact Person form will appear which gives you the option to enter the Full Name of the person you wish to add. If the person has already been added to the Persons section, they will show in the drop-down list which appears as you start to type the name. If the name does not show, it means that the person does not already exist in the Persons section (or has been entered with a name which differs to the one you are typing) and must be added. To do so, click the ‘Add New Person’ button.
+Note: The ‘Add New Person’ button will only be available to users with the appropriate user permissions. Your access rights will also determine whether or not you can access the Persons section.
+It is also important to note that you should always try to type the name of the person in the Full Name box first to see if the person already exists in the Persons section before using the ‘Add New Person’ button. This helps to avoid persons being given multiple records in the Persons section.
+The ‘Add New Person’ button opens the Add New Person form, as shown below. 
+Simply complete the mandatory fields in the form which are marked with a * and enter any other information you want to hold in the system for the new person, then save.
+Note: There is a ‘Copy From Users’ button which enables data to be copied from that which is already held in the system, if the person you are entering into the Persons section already exists as a user in the system.
+Once you save the Add New Person form, you simply need to add a Role and any Comments as required and click the ‘Save’ button for the form to select your new person as an Entity Contact Person.
+
+----
+
+How to remove a contact person?
+To remove a contact person to a company you go to Entity Management- Entity Contact Persons - Entities.
+Click on the edit pencil next to the company. Then click on the small x in the D (delete) column to remove the contact person from this entity.
+
+----
+
+How to replace a contact person?
+To replace a person, go to Entity Management- Entity Contact Persons - Entities.
+Click on the edit pencil next to the company. Then click on the small x in the D (delete) column to remove the contact person you want to replace from this entity.
+Then click on the ‘Add Person’ button to add the new person.
+
+----
+
+Can I get a Visio chart for a specific entity?
+Yes, but a Microsoft Visio license is required for the software. You can contact your IT department if you need one.
+
+----
+
+Where can I get Visio charts out of Blika? 
+This is done by going to Special reports: Org Charts: Active, and then select the segment structure you require. 
+This can also be accessed from Entity Management: Shareholdings: Tree. 
+This option might be available if there is a restriction on the access rights.
+
+----
+
+Create charts in Visio
+To create charts in Microsoft Visio you need two things. First, you need to have Visio installed on your computer, as Blika do not provide the Visio license or software. Secondly, you need to install the Visio add-in. You find a link in your Account area in the Blika application, under Extensions, together with detailed instructions on how to install the add-in.
+Once you have the Visio add-in and Microsoft Visio installed on your computer, you can start Visio and log in using you Blika credentials in the Blika tab. Then you can start creating charts!
+
+----
+
+Updating Visio Charts
+The Visio add-in will provide updates whenever the data in the existing charts are affected by changes in the Blika application. However, these charts will not be updated automatically, instead someone needs to open up the Blika tab in Visio, click on the ‘Browse Charts’ button. 
+A new window will open where you can see the charts and in the Updates tab all updates will be listed and to update a chart, mark the chart and click on the ‘Open Chart’ button. The chart will open and a dialog box will appear, stating all updates and changes, click on the ‘Update Visio Drawing’ button to update (if you instead click on ‘Later’ then the chart will remain as it was the last time you saved it and it will not be updated after the latest changes but the option to update will remain). Save the updated chart and the chart, with the updated changes, will now be up to date. 
+If the chart is published on the Blika site then it will automatically updated there as well, just refresh the page. The layout of the updated chart can be fixed if needed, before you save as some updates will ruin the original layout of the chart.
+
+----
+
+Visio chart including disposed entities
+Always first check the data in Blika and make sure the ownership for the entity is zeroed out as Visio is using the transactions to build the chats. Secondly check the date which is used for the chart and compare it with the date for the zero out transaction. If the transaction date is in February and the chart is for January, the chart will not cover this change.
+
+----
+
+Viewing Visio Charts in the Blika application
+To make Visio charts available in the Blika application, under Special Reports and Org Charts, the chart must first be created in the Visio program together with our Visio add-in and made public by check marking the ‘Publish to Web’ button. If the chart is published to the web, then users with access to the chart can view in from the application. 
+
+----
+
+Access rights to view Visio Charts in the Blika application
+Super Admins can always view all the charts, both the un-published ones inside Visio and all charts published on the web. 
+Users however need the view or edit right for charts (or Corporate Information plus Shareholdings access) for the included companies in Company Permission. For example, a chart over all German entities can only be seen by a user with a Company Permission set including all German entities. If the user only has access to half of the German entities, then the German chart will not be available as half of the entities will be outside the user’s permissions.
+The View Charts permission and CI+SH permission gives the same access regarding Charts. The reason to use View Charts instead of CI+SH is if the user is only supposed to View Charts but not the Shareholdings module.
+
+----
+
+Access rights to create and edit Visio Charts 
+Super Admins can always create and edit charts for all companies. 
+Users however need the edit right for charts for the included companies in Company Permission. For example, a chart over all German entities can only be created or edited by a user with a Company Permission set including all German entities and with edit rights for charts. If the chart includes all companies up to the top parent, then companies not belonging to Germany can be included as they are needed to show the ownership structure.
+User cannot edit other users' Charts that does not have "Public Edit" checked.
+
+----
+
+The Chart Settings Layout Errors
+Sometimes the layout in the Chart Settings is disturbed, for instance the filter settings can be hidden. In this case, try to first log out of Visio and close the program, then change your display setting to 100 % and then go to Visio and log in again. The layout should now be restored.
+
+----
+
+Installation and Uninstallation Issues
+Error: Unable to install this application because an application with the same identity is already installed… When trying to re-install an Add-In after having uninstalled it previously.
+Reason: This error occurs when there are leftover files since the previous installation. One reason can be that the Add-In was uninstalled while the application (Visio/Excel/Word) was still open.
+Solution: 
+Close the installation wizard and the application (Visio/Excel/Word)
+Open Apps & Features / Add or Remove Programs in Windows and make sure that the Add-In is uninstalled. If the Add-In is still in the Programs list, then uninstall it and try to re-install it again, otherwise proceed with the step below. 
+Open the folder “C:\Users\{Your Windows User}\AppData\Local\Apps” where a folder named “2.0” can be found. Delete the “2.0”-folder.
+Note that {Your Windows User} should be replaced with your local windows user.
+Note that if you are unable to see this folder in your File Explorer you might need to turn on View / Hidden Items in the File Explorer, see image below.
+Try to install the Add-In again.
+
+----
+
+Technical Issues 
+Validation error (s)– Last edit date is required
+If you receive the following message “Validation error (s)– ‘Last edit date’ is required” when saving, then it might be an issue with the language setting. The language setting decides the date format and the system might not recognize the format unless it is in English. Here below is an example of how you change the language in Chrome.
+Validation Error - Chrome language settings
+To change the language settings, go to Settings.
+Then click on Advanced.
+Then scroll down to Languages.
+Click on Language, English. Then you will see a list of all languages.
+Make sure English is in the top, it doesn’t matter if it’s the Google Chrome English or the other. To do that, click on the three dots next to the English option.
+Choose Move to the top.
+The Validation Error should now be solved.
+
+----
+
+Two step authentication failure
+Problems with URL.
+In the case where costumer has opened an old URL advise them to use one you have in Blika by simply copying it and sending it to costumer.
